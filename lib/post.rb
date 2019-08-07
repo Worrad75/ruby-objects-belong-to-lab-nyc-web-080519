@@ -2,9 +2,5 @@ require './Author'
 
 class Post
   
-  attr_accessor :title
-  
-  def author
-    
-  end
+  attr_accessor :title, :author
 end
